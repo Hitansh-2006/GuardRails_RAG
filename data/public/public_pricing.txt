@@ -1,0 +1,7 @@
+Acme Corp - AcmeDesk Public Pricing
+
+Starter: Rs 799 per agent per month (billed annually). Up to 3 agents, shared inbox, basic ticketing, email support.
+Growth: Rs 1,899 per agent per month (billed annually). Automation rules, SLA tracking, knowledge base, integrations, priority chat support.
+Enterprise: custom pricing. Single sign-on, audit logs, dedicated account manager, custom data residency, 99.9 percent uptime SLA.
+
+All plans include unlimited tickets. GST is charged extra. Nonprofits and educational institutions get 30 percent off Growth. Contact sales@acmecorp.example for a quote.

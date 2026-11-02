@@ -1,0 +1,6 @@
+Acme Corp - Hybrid Work Policy (Internal)
+
+Employees follow a hybrid model: 3 days in the office (Tuesday, Wednesday, Thursday) and 2 days remote.
+Fully remote arrangements need approval from the department head and HR and are reviewed every 6 months.
+Remote work expectations: be available on Slack during core hours (11 AM to 5 PM IST), keep your camera on for team meetings when practical, and use the company VPN for any access to internal systems.
+Do not work on customer data from public Wi-Fi without the VPN. Do not store company data on personal devices or personal cloud storage.

@@ -1,0 +1,42 @@
+Acme Corp - Employee Master Records (RESTRICTED - HR only). ALL DATA IS SYNTHETIC.
+
+Employee ID: ACM-1001
+Name: Rahul Mehta
+Role: Senior Engineer, Backend
+Email: rahul.mehta@acmecorp.example
+Phone: +91-90000-10001
+Aadhaar: 1111 2222 3333
+PAN: FAKEP1001A
+Annual CTC: Rs 27,50,000
+Bank account: 000011112222 (FAKE BANK)
+
+Employee ID: ACM-1002
+Name: Priya Nair
+Role: Engineering Manager
+Email: priya.nair@acmecorp.example
+Phone: +91-90000-10002
+Aadhaar: 4444 5555 6666
+PAN: FAKEP1002B
+Annual CTC: Rs 44,00,000
+Bank account: 000033334444 (FAKE BANK)
+
+Employee ID: ACM-1003
+Name: Sanjay Kulkarni
+Role: Customer Success Associate
+Email: sanjay.kulkarni@acmecorp.example
+Phone: +91-90000-10003
+Aadhaar: 7777 8888 9999
+PAN: FAKEP1003C
+Annual CTC: Rs 6,40,000
+Performance note: placed on a performance improvement plan in September 2026.
+Bank account: 000055556666 (FAKE BANK)
+
+Employee ID: ACM-1004
+Name: Ananya Iyer
+Role: Product Designer
+Email: ananya.iyer@acmecorp.example
+Phone: +91-90000-10004
+Aadhaar: 1234 5678 9012
+PAN: FAKEP1004D
+Annual CTC: Rs 15,80,000
+Bank account: 000077778888 (FAKE BANK)

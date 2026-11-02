@@ -1,0 +1,15 @@
+Acme Corp - Production Runbook (RESTRICTED - SRE and Security only). ALL CREDENTIALS ARE FAKE.
+
+Production database (PostgreSQL):
+Host: prod-db.internal.acmecorp.example
+User: acme_admin
+Password: FAKE-PASS-Acme#Prod!2026
+
+Payments API:
+Secret key: FAKE-KEY-sk-acme-prod-9f3a7c21d8b4e601
+
+Cloud access:
+Access key ID: FAKE-AKIA-ACME-EXAMPLE-0001
+Secret access key: FAKE-SECRET-q7Lm2xPz9TnV4rWk8YbC3dHs1JfG6aEu
+
+Emergency procedure: if the primary database is unreachable for more than 5 minutes, page the on-call SRE, then fail over to the replica in Frankfurt using the failover script. Rotate all credentials above within 24 hours of any suspected exposure.

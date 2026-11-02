@@ -1,0 +1,14 @@
+Acme Corp - Careers (Public)
+
+Acme Corp is hiring across engineering, design, sales and customer success. We are headquartered in Mumbai with a smaller office in Pune.
+
+Open roles (as of November 2026):
+- Backend Engineer (Python/Go), Mumbai - 2 to 4 years experience
+- Frontend Engineer (React), Pune - 1 to 3 years experience
+- ML Engineer Intern, Mumbai - 6 month internship, open to pre-final and final year students
+- Customer Success Associate, Mumbai
+- Product Designer, remote within India
+
+How to apply: send your resume and a short note to careers@acmecorp.example. Shortlisted candidates go through a screening call, a technical or portfolio round, and a final conversation with the hiring manager. We aim to respond within 10 working days.
+
+Acme Corp is an equal opportunity employer.

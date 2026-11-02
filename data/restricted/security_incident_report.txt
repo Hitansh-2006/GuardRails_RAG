@@ -1,0 +1,7 @@
+Acme Corp - Security Incident Report SIR-2026-017 (RESTRICTED - Security team only)
+
+Date detected: 2 September 2026. Severity: High.
+Summary: A staging API key was accidentally committed to a public GitHub repository by a contractor and was exposed for approximately 19 hours before detection. Logs show 14 unauthorized requests from an unknown IP address to the staging environment. No production data access was confirmed.
+Actions taken: key revoked, repository history rewritten, contractor access removed, all staging credentials rotated.
+Customer notification: not required as per legal review. Do not disclose this incident externally without approval from the CISO.
+Follow-up: mandatory secret-scanning in CI by 30 November 2026.

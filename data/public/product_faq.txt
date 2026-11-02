@@ -1,0 +1,21 @@
+Acme Corp - Product FAQ (Public)
+
+Acme Corp builds "AcmeDesk", a cloud helpdesk and ticketing platform for small and mid-sized businesses.
+
+Q: What is AcmeDesk?
+A: AcmeDesk is a web-based customer support platform. It combines a shared inbox, a ticketing system, a knowledge base and basic automation rules.
+
+Q: Which plans are available?
+A: Starter, Growth and Enterprise. See the public pricing page for details.
+
+Q: Is there a free trial?
+A: Yes. Every new account gets a 14-day free trial of the Growth plan. No credit card is required.
+
+Q: Where is my data stored?
+A: Customer data is stored in data centres located in Mumbai and Frankfurt. Customers can choose their region at signup.
+
+Q: How do I contact support?
+A: Email support@acmecorp.example or use the in-app chat. Support hours are 9 AM to 8 PM IST, Monday to Saturday.
+
+Q: Does AcmeDesk integrate with other tools?
+A: Yes. Native integrations include Slack, Gmail, Outlook, Zapier and WhatsApp Business.

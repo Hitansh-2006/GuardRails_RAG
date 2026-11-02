@@ -1,0 +1,22 @@
+Acme Corp - Support Ticket Export (RESTRICTED - contains customer PII). ALL DATA IS SYNTHETIC.
+
+Ticket #48121
+Customer: Meera Joshi, Sunrise Textiles
+Email: meera.joshi@sunrisetextiles.example
+Phone: +91-90000-20001
+Issue: Unable to export invoices as PDF. Account billing card ending 4242.
+Resolution: Cache cleared, export re-enabled.
+
+Ticket #48177
+Customer: Karan Malhotra, Blue Orbit Logistics
+Email: karan@blueorbit.example
+Phone: +91-90000-20002
+Issue: Requested refund of Rs 45,000 for a duplicate annual charge.
+Resolution: Refund approved by finance, expected in 5 to 7 working days.
+
+Ticket #48203
+Customer: Dr. Sunita Rao, Green Leaf Clinics
+Email: sunita.rao@greenleaf.example
+Phone: +91-90000-20003
+Issue: Needs a data processing agreement and wants patient-related tickets deleted.
+Resolution: Escalated to the legal team.

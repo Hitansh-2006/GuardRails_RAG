@@ -1,0 +1,12 @@
+Acme Corp - New Employee Onboarding Guide (Internal)
+
+Week 1:
+- Day 1: collect your laptop from IT, sign the offer documents, attend the welcome session at 11 AM.
+- Day 2: security awareness training (mandatory, 90 minutes). Set up multi-factor authentication on your company account.
+- Day 3 to 5: meet your team, get access to the repositories and tools relevant to your role, and pick up your first starter task with your buddy.
+
+Tools you will use: Slack for chat, Jira for tasks, GitHub for code, Notion for documentation, Google Workspace for email and calendar.
+
+Your buddy is a teammate who helps with questions during the first 30 days. Your manager holds a 30-60-90 day check-in with you.
+
+Company values: ship small, write things down, be kind and direct, protect customer data.

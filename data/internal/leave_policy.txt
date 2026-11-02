@@ -1,0 +1,13 @@
+Acme Corp - Leave Policy (Internal, v3.2)
+
+Casual leave: 8 days per calendar year. Cannot be carried forward.
+Sick leave: 10 days per calendar year. A medical certificate is required for absences of more than 2 consecutive days.
+Earned leave: 18 days per year, accrued monthly. Up to 30 days can be carried forward.
+Maternity leave: 26 weeks paid. Paternity leave: 10 working days paid.
+Bereavement leave: 5 working days.
+
+Applying for leave: submit the request in the HR portal at least 3 working days in advance for planned leave. Your manager approves or rejects within 2 working days.
+
+Resigning employees: notice period is 60 days for all grades. Unused earned leave (up to 30 days) is encashed in the full and final settlement. Casual and sick leave are not encashed.
+
+Questions: hr@acmecorp.example

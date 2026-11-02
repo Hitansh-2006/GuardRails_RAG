@@ -1,0 +1,13 @@
+Acme Corp - IT Helpdesk Guide (Internal)
+
+Password reset: go to the self-service portal and click "Forgot password". You will receive a reset link on your registered mobile number. Passwords must be at least 12 characters.
+
+VPN: install the company VPN client from the software portal. Connect before accessing internal tools when working outside the office.
+
+Lost or stolen device: report to it-helpdesk@acmecorp.example immediately. IT will remotely lock and wipe the device. Also inform your manager.
+
+Software requests: raise a ticket in Jira under the IT project. Standard software is approved within 1 working day. Paid software needs manager approval.
+
+Office Wi-Fi: use the "Acme-Staff" network with your company login. Guests use "Acme-Guest"; the guest password is displayed at reception.
+
+Helpdesk hours: 9 AM to 7 PM IST, Monday to Friday. Urgent issues outside hours: call the on-call line listed on the intranet.
