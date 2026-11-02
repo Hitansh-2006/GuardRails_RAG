@@ -12,7 +12,7 @@ def chunk(text, size=600, overlap=100):
         i += size - overlap
     return out
 
-def load_corpus(root="data"):
+def load_corpus(root="../data"):
     chunks = []
     for path in glob.glob(f"{root}/*/*.txt"):
         level = os.path.basename(os.path.dirname(path))  # public / internal / restricted
@@ -28,8 +28,9 @@ class Index:
     def __init__(self, chunks):
         self.chunks = chunks
         vecs = embed([c["text"] for c in chunks])
+        
         self.vecs = vecs / np.linalg.norm(vecs, axis=1, keepdims=True)
-
+       
     def search(self, query, k=4, allowed_levels=None):
         q = embed([query])[0]
         q = q / np.linalg.norm(q)
