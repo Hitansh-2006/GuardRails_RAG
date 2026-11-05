@@ -7,5 +7,5 @@ while True:
     if q.strip() in {"exit", "quit"}:
         break
     a, hits = answer(index, history, q)
-    print("bot>", a, "\n   sources:", [h["source"] for h in hits])
+    print("   sources:", [(h["source"], h["level"]) for h in hits])
     history += [{"role": "user", "content": q}, {"role": "assistant", "content": a}]

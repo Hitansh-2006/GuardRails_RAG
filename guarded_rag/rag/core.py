@@ -21,18 +21,22 @@ def load_corpus(root="../data"):
             chunks.append({"text": c, "source": os.path.basename(path), "level": level})
     return chunks
 
-def embed(texts):
+def embed_docs(texts):
+    texts = ["search_document: " + t for t in texts]
     return np.array(ollama.embed(model=EMBED_MODEL, input=texts)["embeddings"])
+
+def embed_query(text):
+    return np.array(ollama.embed(model=EMBED_MODEL, input=["search_query: " + text])["embeddings"][0])
 
 class Index:
     def __init__(self, chunks):
         self.chunks = chunks
-        vecs = embed([c["text"] for c in chunks])
+        vecs = embed_docs([c["text"] for c in chunks])
         
         self.vecs = vecs / np.linalg.norm(vecs, axis=1, keepdims=True)
        
     def search(self, query, k=4, allowed_levels=None):
-        q = embed([query])[0]
+        q = embed_query(query)
         q = q / np.linalg.norm(q)
         scores = self.vecs @ q
         order = np.argsort(-scores)
